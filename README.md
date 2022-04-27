@@ -2,3 +2,10 @@
 # this is a hacking news scrapper
 # this program will automatically extract hacking news from https://news.ycombinator.com/ and send report to your email automatically
 # this project is built with python 3.10
+# Python libraries used:
+# selenium
+# requests
+# beautifulsoup
+# smtplib
+# email.mime
+# datetime
